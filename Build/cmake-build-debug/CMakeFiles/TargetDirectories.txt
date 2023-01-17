@@ -1,7 +1,0 @@
-/Users/yangfengzz/Desktop/JoltPhysics/Build/cmake-build-debug/CMakeFiles/Jolt.dir
-/Users/yangfengzz/Desktop/JoltPhysics/Build/cmake-build-debug/CMakeFiles/UnitTests.dir
-/Users/yangfengzz/Desktop/JoltPhysics/Build/cmake-build-debug/CMakeFiles/HelloWorld.dir
-/Users/yangfengzz/Desktop/JoltPhysics/Build/cmake-build-debug/CMakeFiles/PerformanceTest.dir
-/Users/yangfengzz/Desktop/JoltPhysics/Build/cmake-build-debug/CMakeFiles/test.dir
-/Users/yangfengzz/Desktop/JoltPhysics/Build/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yangfengzz/Desktop/JoltPhysics/Build/cmake-build-debug/CMakeFiles/rebuild_cache.dir
